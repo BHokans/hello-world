@@ -14,7 +14,7 @@ Slashdot API Demo
 
 <script>
   (function() {
-    var cx = '006515366343113216417:we23l6x4uuy';
+    var cx = '006515366343113216417:vtzupwtuyzg';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
