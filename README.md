@@ -1,13 +1,16 @@
 # hello-world
-# Learning to build an API
 
-# I am spending 5 days to learn how to build an API. This is my private GitHub repository where 
-# I can store my code and make and commit my changes.
+# Insert Google API for custom search
 
-# In addition to building my API, looks like I'll learn about branching and committing too.
-
-# Result when True show happy face, when False, show sad face
-# If b = TRUE
-#   GET https://unravelmirth.files.wordpress.com/2012/12/happy-monkey-loves-camera.jpg
-#   else GET https://en.wikipedia.org/wiki/List_of_New_World_monkey_species
-  
+<script>
+  (function() {
+    var cx = '006515366343113216417:we23l6x4uuy';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
